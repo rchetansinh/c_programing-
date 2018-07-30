@@ -1,0 +1,8 @@
+make_hello.c: In function ‘main’:
+make_hello.c:5:1: error: expected declaration specifiers before ‘ss’
+ ss
+ ^
+make_hello.c:9:1: error: expected ‘{’ at end of input
+ }
+ ^
+make: *** [hello] Error 1
